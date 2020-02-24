@@ -1,0 +1,11 @@
+.footer {
+  height: 64px;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-size: 0.8em;
+  line-height: 50px;
+  color: black;
+  font-weight: bold;
+}

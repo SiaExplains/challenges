@@ -1,0 +1,33 @@
+.shipment-item {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 15px;
+}
+.form-title {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.completed {
+  color: green;
+}
+.active {
+  color: blue;
+}
+
+.edit-button {
+  background-color: rgb(255, 218, 56) !important;
+  cursor: default;
+}
+.edit-button:hover {
+  background-color: rgb(255, 175, 47) !important;
+  cursor: pointer;
+}
+
+.save-button {
+  color: black;
+  cursor: default;
+}
+.save-button:hover {
+  color: rgb(23, 92, 184);
+  cursor: pointer;
+}

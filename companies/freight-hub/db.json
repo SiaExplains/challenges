@@ -1,0 +1,378 @@
+{
+  "shipments": [
+    {
+      "id": "S12345",
+      "name": "Cars from Tehran to Berlin",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "500 BMW",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "200 Benz ",
+          "volume": "3"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "id": "S12344",
+      "name": "Beer from Mosccow to Tehran",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "50000 Bavaria",
+          "volume": "2"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "id": "S54321",
+      "name": "Cars from Tehran to Berlin",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "500 BMW",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "200 Benz ",
+          "volume": "3"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "id": "S12211",
+      "name": "Cars from Tehran to Berlin",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "500 BMW",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "200 Benz ",
+          "volume": "3"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "id": "S32112",
+      "name": "Cars from Tehran to Berlin",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "500 BMW",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "200 Benz ",
+          "volume": "3"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "id": "SD89765",
+      "name": "Best Clothes to Japan !",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "500 BMW",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "200 Benz ",
+          "volume": "3"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "id": "SC3A12",
+      "name": "Cars from Tehran to Berlin",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "500 BMW",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "200 Benz ",
+          "volume": "3"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "id": "BN7832",
+      "name": "Cars from Tehran to Berlin",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "500 BMW",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "200 Benz ",
+          "volume": "3"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "id": "S444567",
+      "name": "Cars from Tehran to Berlin",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "500 BMW",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "200 Benz ",
+          "volume": "3"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "id": "S1000",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1001",
+      "name": "New spring collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1002",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "XXXXX",
+      "name": "Cars from Tehran to Berlin",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "500 BMW",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "200 Benz ",
+          "volume": "3"
+        }
+      ],
+      "mode": "rail",
+      "type": "FCL",
+      "destination": "Berlin Str. 18, 11415 Berlin",
+      "origin": "Tehran Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1111",
+      "status": "COMPLETED",
+      "userId": "U1111"
+    },
+    {
+      "readOnly": false,
+      "id": "8s5DmiO"
+    },
+    {
+      "readOnly": false,
+      "id": "TasC8OB"
+    },
+    {
+      "readOnly": false,
+      "id": "MF1e4DY"
+    },
+    {
+      "readOnly": false,
+      "id": "V2-3-hN"
+    }
+  ]
+}
