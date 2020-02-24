@@ -1,0 +1,23 @@
+.lot {
+    border: 2px rgb(139, 139, 139) solid;
+    background-color: white;
+    cursor: default;
+    text-align: center;
+}
+
+.lot:hover {
+    background-color: rgb(90, 250, 130);
+    cursor: pointer;
+    text-align: center;
+}
+.lot-fill {
+    background-color: maroon;
+    text-align: center;
+    border: 2px rgb(139, 139, 139) solid;
+}
+
+.lot-fill:hover {
+    border: 2px rgb(139, 139, 139) solid;
+    cursor: pointer;
+    text-align: center;
+}

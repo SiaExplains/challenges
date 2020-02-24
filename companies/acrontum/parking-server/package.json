@@ -1,0 +1,11 @@
+{
+  "name": "parking-server",
+  "version": "1.0.0",
+  "description": "multi-level car park",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siavash Ghanbari",
+  "license": "ISC"
+}
