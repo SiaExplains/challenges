@@ -1,0 +1,17 @@
+.CopmanyGroup {
+    border: 1px solid #8d8d8d;
+    border-radius: 10px;
+    background-color: rgb(230, 230, 230);
+    margin: 5px;
+    text-align: center;
+    padding: 20px;
+}
+
+.CopmanyGroup:hover {
+    border: 1px solid #5e5e5e;
+    border-radius: 10px;
+    background-color: rgb(202, 226, 245);
+    margin: 5px;
+    text-align: center;
+    padding: 20px;
+}

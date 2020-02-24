@@ -1,0 +1,15 @@
+.CustomerOrder {
+    border: 1px solid #8d8d8d;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    text-align: center;
+}
+
+.CustomerOrder:hover {
+    border: 1px solid #5e5e5e;
+    border-radius: 10px;
+    background-color: rgb(255, 253, 145);
+    margin: 5px;
+    text-align: center;
+}
