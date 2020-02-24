@@ -1,0 +1,33 @@
+{
+    "name": "hexad-bakery",
+    "version": "1.0.1",
+    "description": "this is an assignment from hexad Gmbh.",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest --watchAll"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SiaQnbr/hexad-bakery.git"
+    },
+    "keywords": [
+        "bakery",
+        "hexad",
+        "assignment",
+        "algorithm",
+        "dynamic-programming"
+    ],
+    "author": "Siavash Ghanbari",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SiaQnbr/hexad-bakery/issues"
+    },
+    "homepage": "https://github.com/SiaQnbr/hexad-bakery#readme",
+    "dependencies": {
+        "jest": "^25.1.0"
+    },
+    "jest": {
+        "verbose": true,
+        "testURL": "http://localhost:1234/"
+    }
+}
